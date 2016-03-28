@@ -1,0 +1,1132 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-35584.00274006973" y="-20967.165212211934" width="71168.00548013946" height="41934.33042442387"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="6_30863873" type="button" x="6316.784716197463" y="1.4963215718985801e-12" r="0" s="58.65761704353598" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>997.8895767628644</w>
+        <h>714.8684099587796</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_30863873" type="image" x="14928.877647909732" y="2394.2817987846847" r="0" s="51.71566713198574">
+      <source w="362" h="500" bt="216.8" bl="248.05">1347518718<url>1347518718.swf</url></source>
+      <resource>
+        <id>1347518718</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/f/e/f821571ea31a3d50beec043463846fd25ecd8.swf</url>
+      </resource>
+      <sourceUrl>letters2.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="504_30863873" type="shape" x="590.5086080903386" y="-13812.632881993948" r="135" s="21.561785225163767" class="poly5">
+      <geom type="poly">
+        <p x="0" y="-76.50452670948029"/>
+        <p x="154.0028391956866" y="76.50452670948029"/>
+        <p x="-154.0028391956866" y="76.50452670948029"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="502_30863873" type="shape" x="-16906.356880843523" y="-15365.30104308494" r="0" s="97.12764357371924" class="poly4">
+      <geom type="poly">
+        <p x="-192.3174310097807" y="-28.08542098403352"/>
+        <p x="192.3174310097807" y="-28.08542098403352"/>
+        <p x="192.3174310097807" y="28.08542098403352"/>
+        <p x="-192.3174310097807" y="28.08542098403352"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="506_30863873" type="shape" x="-1737.7352546937936" y="-11483.19474177336" r="-44.999999999999986" s="21.561785225163757" class="poly5">
+      <geom type="poly">
+        <p x="0" y="-76.50452670948029"/>
+        <p x="154.0028391956866" y="76.50452670948029"/>
+        <p x="-154.0028391956866" y="76.50452670948029"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="505_30863873" type="shape" x="-4058.148937151348" y="-9165.765503739904" r="135" s="21.561785225163767" class="poly5">
+      <geom type="poly">
+        <p x="0" y="-76.50452670948029"/>
+        <p x="154.0028391956866" y="76.50452670948029"/>
+        <p x="-154.0028391956866" y="76.50452670948029"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="508_30863873" type="shape" x="4883.2017080407095" y="-7798.471043823263" r="-44.999999999999986" s="17.96904000714001" class="poly4">
+      <geom type="poly">
+        <p x="0" y="-77"/>
+        <p x="154.0028391956866" y="77"/>
+        <p x="-154.0028391956866" y="77"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="509_30863873" type="shape" x="4534.516327768826" y="-4960.749810382787" r="-135.00000000000003" s="20.974338537637035" class="poly4">
+      <geom type="poly">
+        <p x="0" y="-76.50452670948029"/>
+        <p x="154.0028391956866" y="76.50452670948029"/>
+        <p x="-154.0028391956866" y="76.50452670948029"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="503_30863873" type="shape" x="-2448.616975335655" y="-6300.08602161628" r="0" s="110.1930055002884" class="poly4">
+      <geom type="poly">
+        <p x="-67.43369594458471" y="-22.50115871429421"/>
+        <p x="67.43369594458471" y="-22.50115871429421"/>
+        <p x="67.43369594458471" y="22.50115871429421"/>
+        <p x="-67.43369594458471" y="22.50115871429421"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_24309637" type="button" x="12373.675741859051" y="9665.385133639043" r="-7.494801908139742" s="6.963255210667788" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>993.939393939394</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="18_24309637" type="shape" x="12419.29196056486" y="10171.857874663823" r="-7.494801908139742" s="10.447178153164476" class="poly2">
+      <geom type="poly">
+        <p x="-242.14540618412713" y="-249.193822970412"/>
+        <p x="242.14540618412713" y="-249.193822970412"/>
+        <p x="242.14540618412713" y="249.193822970412"/>
+        <p x="-242.14540618412713" y="249.193822970412"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="10_24309637" type="shape" x="12038.8044232597" y="7391.72862708446" r="-7.494801908139742" s="2.54656840147805" class="line1">
+      <geom type="line">
+        <sp>-986.8569338287072 0</sp>
+        <ep>986.856933828707 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="36_24309637" type="button" x="23836.095727271633" y="2110.60896299499" r="-7.494801908139742" s="3.350220808948124" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>993.939393939394</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="39_24309637" type="shape" x="23688.25901550597" y="1035.6310284236858" r="-7.494801908139741" s="1.2252267354743858" class="line1">
+      <geom type="line">
+        <sp>-986.8569338287072 0</sp>
+        <ep>986.856933828707 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="8_30863873" type="text" x="11947.497887529866" y="6891.8720615866805" r="-7.494801908139738" s="17.396812985703843" class="head">
+      <height>31.9921875</height>
+      <width>270.7421875</width>
+      <p align="center">
+        <text><![CDATA[Overview]]></text>
+      </p>
+    </object>
+    <object id="9_30863873" type="text" x="23668.58936354228" y="761.7027730933479" r="-7.494801908139741" s="8.602995127865674" class="head">
+      <height>31.9921875</height>
+      <width>270.7421875</width>
+      <p align="center">
+        <text><![CDATA[MonoDevelop: Editor]]></text>
+      </p>
+    </object>
+    <object id="4" type="image" x="24265.032877849277" y="2994.9338840645537" r="-7.494801908139741" s="2.8466846014250486">
+      <source w="256" h="256">3992982935<url>3992982935.png</url></source>
+      <resource>
+        <id>3992982935</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/7/1/00021c85152351fe9b17904b51b9969da0ea2.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fi1-news.softpedia-static.com%2Fimages%2Fnews2%2FMonoDevelop-3-0-Has-Support-for-Android-2.png</sourceUrl>
+    </object>
+    <object id="10_30863873" type="text" x="23782.92504582739" y="1927.006108800156" r="-7.4948019081397375" s="4.8601425545388075" class="body">
+      <height>320.76</height>
+      <width>457.8383469214743</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[MonoDevelop is an open source IDE that integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, a graphical user interface (GUI) and Web designer. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, and Visual Basic.NET. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[It is specially Designed for programming in Unity.]]></text>
+      </p>
+    </object>
+    <object id="13_30863873" type="button" x="17753.35855605776" y="4031.636097904604" r="-7.494801908139742" s="4.194651175443212" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>993.939393939394</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="14_30863873" type="shape" x="17568.259282862036" y="2685.707660954572" r="-7.494801908139738" s="1.534047771542463" class="line1">
+      <geom type="line">
+        <sp>-986.8569338287072 0</sp>
+        <ep>986.856933828707 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>literature</parentTemplate>
+      </meta>
+    </object>
+    <object id="15_30863873" type="text" x="17540.609618718154" y="2345.5183375814017" r="-7.4948019081397375" s="9.424436457677754" class="head">
+      <height>63.984375</height>
+      <width>270.1192799444262</width>
+      <p align="center">
+        <text><![CDATA[Unity: The Physics Engine]]></text>
+      </p>
+    </object>
+    <object id="2" type="image" x="17900.44206939025" y="5273.640260090681" r="-7.494801908139738" s="1.6253589088618012">
+      <source w="795" h="297">3992980844<url>3992980844.png</url></source>
+      <resource>
+        <id>3992980844</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/7/e/2a44d89a5372887c9f29363283fc725c7149c.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fforum.unity3d.com%2Fattachments%2Flogo-titled-png.16698%2F</sourceUrl>
+    </object>
+    <object id="16_30863873" type="text" x="17716.581493516398" y="3844.2091240450736" r="-7.4948019081397375" s="6.085151947228961" class="body">
+      <height>320.76</height>
+      <width>457.8383469214743</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Unity is a  powerful development platform for creating multiplatform 3D and 2D games.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[It can be easily deployed on any platforms like iOS,Android,Windows, Mac, PS 3, Xbox etc.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[It uses concepts of Physics, Rigid Bodies and Kinematics extensively and thus is reason for real world experience.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Used for all the high end games like GTA, Mario, Assasin's Creed.]]></text>
+      </p>
+    </object>
+    <object id="2_30863873" type="text" x="-1889.0692810650503" y="-6070.386696062746" r="0" s="49.951000401141215" class="head">
+      <height>63.984375</height>
+      <width>316.0133063846917</width>
+      <p>
+        <text><![CDATA[Anagha S.K (160113737001)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Theja Shree K(160113737026)]]></text>
+      </p>
+    </object>
+    <object id="4_30863873" type="text" x="-17216.10691506364" y="-15408.736575985278" r="0" s="107.990659561414" class="head">
+      <height>31.9921875</height>
+      <width>328.7878222131714</width>
+      <p align="right">
+        <text><![CDATA[Word Search Using Unity]]></text>
+      </p>
+    </object>
+    <object id="0_171429081" type="text" x="12640.19999025151" y="9982.3732102128" r="-7.494801908139741" s="15.815284532458024" class="body">
+      <height>233.28</height>
+      <width>304.29600000000005</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Introduction]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Hardware Requirements]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Software Requirements]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Implementation]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Results]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Conclusion & Future Scope]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[References]]></text>
+      </p>
+    </object>
+    <object id="1_171429081" type="button" x="12194.38452729034" y="2649.4599325901063" r="3.526861154545968" s="4.475656561465766" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>644.7922407234707</w>
+        <h>824.3621245514371</h>
+      </size>
+    </object>
+    <object id="4_171429081" type="text" x="12574.18093832822" y="1070.6088775410856" r="3.5268611545459683" s="8.60299512786568" class="head">
+      <height>31.9921875</height>
+      <width>361.1248705291472</width>
+      <p>
+        <text><![CDATA[MySql & MySql WorkBench]]></text>
+      </p>
+    </object>
+    <object id="6" type="image" x="12124.13792986345" y="3631.184663629992" r="3.526861154545968" s="1.200411245758172">
+      <source w="1280" h="662">3992982959<url>3992982959.png</url></source>
+      <resource>
+        <id>3992982959</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/b/c/b5dfd5de2521b183f50c86f98e8ba7a4e40e2.png</url>
+      </resource>
+      <sourceUrl>https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F6%2F62%2FMySQL.svg%2F1280px-MySQL.svg.png</sourceUrl>
+    </object>
+    <object id="6_171429081" type="text" x="12175.502723920576" y="2180.196507490862" r="3.526861154545968" s="6.085151947228961" class="body">
+      <height>291.6</height>
+      <width>396.4920971907232</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[MySQL is an open-source relational database anagement system (RDBMS);and the most widely used open-source client–server model RDBMS. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[MySQL Workbench is the official integrated environment for MySQL. It enables users to graphically administer MySQL databases and visually design database structures.]]></text>
+      </p>
+    </object>
+    <object id="5_171429081" type="button" x="7967.931618422775" y="2400.844474229126" r="0" s="5.68752649397645" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>512.6294878266915</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_171429081" type="shape" x="7967.924407210647" y="2406.811663511647" r="0" s="7.370303275335982" class="poly2">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-219.27919956417935"/>
+        <p x="181.4999691968996" y="-219.27919956417935"/>
+        <p x="181.4999691968996" y="219.27919956417935"/>
+        <p x="-181.4999691968996" y="219.27919956417935"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="9_171429081" type="text" x="7967.740159020498" y="1047.7371710316725" r="0" s="12.044193179011948" class="strong">
+      <style fontFamily="custom-playfairdisplay" font-family="PlayfairDisplay"/>
+      <style fontFamily="custom-playfairdisplay" font-family="PlayfairDisplay"/>
+      <height>31.9921875</height>
+      <width>-173.4140625</width>
+      <p>
+        <text><![CDATA[Implementation]]></text>
+      </p>
+    </object>
+    <object id="10_171429081" type="button" x="24706.487678960453" y="8634.953939055784" r="-7.494801908139738" s="4.330517457151692" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>891.58515625</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="13_171429081" type="shape" x="24692.01203087685" y="8638.18243821297" r="-7.4948019081397375" s="5.611793990260565" class="poly2">
+      <style borderThickness="9"/>
+      <style borderThickness="9"/>
+      <geom type="poly">
+        <p x="-314.5652539310895" y="-211.58906856425463"/>
+        <p x="314.5652539310895" y="-211.58906856425463"/>
+        <p x="314.5652539310895" y="211.58906856425463"/>
+        <p x="-314.5652539310895" y="211.58906856425463"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="14_171429081" type="text" x="24531.44776107958" y="7722.062390540373" r="-7.494801908139742" s="10.981159348591904" class="strong">
+      <style fontFamily="custom-playfairdisplay" font-family="PlayfairDisplay"/>
+      <style fontFamily="custom-playfairdisplay" font-family="PlayfairDisplay"/>
+      <height>31.9921875</height>
+      <width>-136.86328125</width>
+      <p>
+        <text><![CDATA[Introduction]]></text>
+      </p>
+    </object>
+    <object id="16_171429081" type="button" x="5275.444364476951" y="8030.004005512467" r="0" s="5.68752649397645" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="17_171429081" type="button" x="18853.17681330442" y="9219.037240681651" r="0" s="5.68752649397645" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="18_171429081" type="text" x="5275.125779678351" y="6769.17593392882" r="0" s="10.49587975559182" class="head">
+      <height>31.9921875</height>
+      <width>266.12109375</width>
+      <p>
+        <text><![CDATA[Hardware Requirements]]></text>
+      </p>
+    </object>
+    <object id="19_171429081" type="text" x="5125.708251402259" y="8226.310910671566" r="0" s="9.481913169161649" class="head">
+      <height>191.953125</height>
+      <width>333.6</width>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[System : Pentium IV 2.4 GHz]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Hard disk : 40 GB]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[RAM : 512MB]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[GPU: Graphics card with DX9. (shader model 2.0) capabilities]]></text>
+      </p>
+    </object>
+    <object id="20_171429081" type="text" x="18903.98142707325" y="7947.094188264335" r="0" s="10.49587975559182" class="head">
+      <height>31.9921875</height>
+      <width>-252.10546875</width>
+      <p>
+        <text><![CDATA[Software Requirements]]></text>
+      </p>
+    </object>
+    <object id="21_171429081" type="text" x="18759.69951914749" y="9231.395708442082" r="0" s="10.49587975559182" class="head">
+      <height>191.953125</height>
+      <width>296.6</width>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[OS: Windows XP SP2+, 7 SP1+, 8, 10; Mac OS X 10.8+]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Unity  ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[MonoDevelop Editor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[MySql with Workbench]]></text>
+      </p>
+    </object>
+    <object id="22_171429081" type="text" x="24678.287808895395" y="8277.87943430533" r="-7.494801908139741" s="6.195914849818081" class="strong">
+      <height>116.64</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Word Search is a puzzle game where words are arranged in a randomized order in a grid.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Count of the number of words is maintained.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Timer is implemented.]]></text>
+      </p>
+    </object>
+    <object id="23_171429081" type="button" x="26796.35508856574" y="-4146.809635579804" r="0" s="4.062518924268894" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>850.6335172653198</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="24_171429081" type="button" x="21777.49759699409" y="-2511.888937222171" r="0" s="4.062518924268894" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="45_171429081" type="image" x="25961.591991104237" y="-4199.627894791671" r="0" s="1.4418089945021615">
+      <source w="1366" h="768">3992898758<mask x="168" y="2" w="1033" h="766"/>
+      <url>3992898758.png</url></source>
+      <resource>
+        <id>3992898758</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/5/64902284340ad4adc9cdae0c8dc6838c66d7f.png</url>
+      </resource>
+      <sourceUrl>14.png</sourceUrl>
+    </object>
+    <object id="26_171429081" type="text" x="26618.62842104871" y="-5111.212301336906" r="0" s="7.497056968279871" class="head">
+      <height>31.9921875</height>
+      <width>-78.48046875</width>
+      <p>
+        <text><![CDATA[Results]]></text>
+      </p>
+    </object>
+    <object id="56_171429081" type="image" x="21002.360577264917" y="-2060.9634671057624" r="0" s="1.2681248260727558">
+      <source w="1366" h="768">3992906963<mask x="160" y="5" w="1034" h="763"/>
+      <url>3992906963.png</url></source>
+      <resource>
+        <id>3992906963</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/e/a/19496e10f3b542eb9bdb07161db5ba0a8da78.png</url>
+      </resource>
+      <sourceUrl>12.png</sourceUrl>
+    </object>
+    <object id="55_171429081" type="image" x="22551.809662157175" y="-2060.9219056880997" r="0" s="1.2702760272097553">
+      <source w="1366" h="768">3992906948<mask x="177" y="0" w="1023" h="768"/>
+      <url>3992906948.png</url></source>
+      <resource>
+        <id>3992906948</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/5/3/8f2563eb3b51c4f520e0ccd419f95ae9f14a9.png</url>
+      </resource>
+      <sourceUrl>13.png</sourceUrl>
+    </object>
+    <object id="65_171429081" type="button" x="19202.445954814157" y="-6368.937320977957" r="0" s="4.062518924268894" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="72_171429081" type="image" x="21767.080918026633" y="-3115.845644349806" r="0" s="10.353940578327611">
+      <source w="190" h="107">3992919053<mask x="25" y="0" w="136" h="103"/>
+      <url>3992919053.png</url></source>
+      <resource>
+        <id>3992919053</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/7/3/d06105160e75d40fb3e79d7f7f9c530fa8548.png</url>
+      </resource>
+      <sourceUrl>8.png</sourceUrl>
+    </object>
+    <object id="74_171429081" type="button" x="28707.589632047795" y="-8438.687323495822" r="0" s="4.062518924268894" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="75_171429081" type="button" x="23657.759484638675" y="-11790.340354377442" r="0" s="4.062518924268894" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="76_171429081" type="button" x="18158.29334555698" y="-10972.880005198627" r="0" s="4.062518924268894" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="77_171429081" type="text" x="28702.341692169994" y="-9434.202775671289" r="0" s="7.497056968279871" class="head">
+      <height>31.9921875</height>
+      <width>-317.98828125</width>
+      <p>
+        <text><![CDATA[Conclusion and Future Scope]]></text>
+      </p>
+    </object>
+    <object id="78_171429081" type="text" x="23659.258896032337" y="-12740.967177955332" r="0" s="7.497056968279871" class="head">
+      <height>31.9921875</height>
+      <width>-116.89453125</width>
+      <p>
+        <text><![CDATA[References]]></text>
+      </p>
+    </object>
+    <object id="81_171429081" type="image" x="22826.710719704857" y="-12778.73360243304" r="0" s="0.6042100268052449">
+      <source w="995" h="583" bt="214.75" bl="0">922652523<url>922652523.swf</url></source>
+      <resource>
+        <id>922652523</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/4/7/d1895cb167626f4cd3e170b6d8fe7be964130.swf</url>
+      </resource>
+      <sourceUrl>cloud_net_sticker.swf</sourceUrl>
+    </object>
+    <object id="82_171429081" type="text" x="23856.857322627788" y="-11954.882571933347" r="0" s="5.632649863470976" class="head">
+      <style fontFamily="custom-oldstandard" font-family="OldStandard"/>
+      <style fontFamily="custom-oldstandard" font-family="OldStandard"/>
+      <height>177.83999999999997</height>
+      <width>485.76</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[www.wordsearch.com]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://unity3dcom/get-unity/download/archive]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://www.monodevelop.com/download]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://dev.mysql.com/downloads]]></text>
+      </p>
+    </object>
+    <object id="83_171429081" type="image" x="18158.29334555698" y="-10972.786291986522" r="0" s="1.7440175666210305">
+      <source w="1386" h="1385">3992949785<url>3992949785.jpg</url></source>
+      <resource>
+        <id>3992949785</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/3/0/e2e743123a15c7e166b3dd294071687fd1fbb.jpg</url>
+      </resource>
+      <sourceUrl>thank-you.jpg</sourceUrl>
+    </object>
+    <object id="0" type="text" x="18877.993391304855" y="10527.318731437636" r="0" s="10.49587975559182" class="head">
+      <height>31.9921875</height>
+      <width>-324.66796875</width>
+      <p>
+        <text><![CDATA[So what is a physics Engine?...]]></text>
+      </p>
+    </object>
+    <object id="7" type="text" x="7976.701231409454" y="2056.6724801809905" r="0" s="4.121854237100402" class="strong">
+      <height>291.6</height>
+      <width>622.9222145495029</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Scenes are made and linked.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Script is written using C#. Whenever a string is inputted in the text field, the string is checked in the corresponding table of the database. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Letters are arranged to make grid prefabs.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[If the string is found and is not already hit, score is increased by one. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Timer is set to 100 seconds.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Facility to pause, restart and go to main menu is also given.]]></text>
+      </p>
+    </object>
+    <object id="8" type="image" x="27641.37736966918" y="-4199.62789479167" r="0" s="1.4570744233848356">
+      <source w="1366" h="768">3992990498<mask x="176" y="0" w="1017" h="765"/>
+      <url>3992990498.png</url></source>
+      <resource>
+        <id>3992990498</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/9/5/0672faf660c06bb91075f5b09a88020a8ff80.png</url>
+      </resource>
+      <sourceUrl>6.png</sourceUrl>
+    </object>
+    <object id="9" type="text" x="25961.33858120174" y="-3425.4560066280937" r="0" s="7.497056968279871" class="body">
+      <height>29.16</height>
+      <width>-106.87199999999999</width>
+      <p>
+        <text><![CDATA[First scene]]></text>
+      </p>
+    </object>
+    <object id="10" type="text" x="27640.931599058356" y="-3425.4560066280937" r="0" s="7.497056968279871" class="body">
+      <height>29.16</height>
+      <width>-133.176</width>
+      <p>
+        <text><![CDATA[Menu Screen]]></text>
+      </p>
+    </object>
+    <object id="11" type="image" x="19963.611436262305" y="-5877.2754444255315" r="0" s="1.1217163712492828">
+      <source w="1366" h="768">3992990615<mask x="170" y="0" w="1017" h="768"/>
+      <url>3992990615.png</url></source>
+      <resource>
+        <id>3992990615</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/2/8/d3f6873284cd922afa394dd509811c5b58fc9.png</url>
+      </resource>
+      <sourceUrl>7.png</sourceUrl>
+    </object>
+    <object id="12" type="image" x="18478.971467816515" y="-5877.165812172655" r="0" s="1.1776485728227402">
+      <source w="1366" h="768">3992992013<mask x="171" y="0" w="1018" h="768"/>
+      <url>3992992013.png</url></source>
+      <resource>
+        <id>3992992013</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/3/e/40e5243fc17647b7f22bf820c88ddf9888cf0.png</url>
+      </resource>
+      <sourceUrl>9.png</sourceUrl>
+    </object>
+    <object id="13" type="image" x="19194.514947235588" y="-6946.573622850878" r="0" s="1.283415467235542">
+      <source w="1366" h="768">3992994905<mask x="172" y="0" w="1017" h="743"/>
+      <url>3992994905.png</url></source>
+      <resource>
+        <id>3992994905</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/f/df42ed848a3cb968b63b15be993f79f45bf11.png</url>
+      </resource>
+      <sourceUrl>11.png</sourceUrl>
+    </object>
+    <object id="14" type="text" x="20316.133945384845" y="-6849.088623593604" r="0" s="4.3852901150370505" class="body">
+      <height>29.16</height>
+      <width>-182.472</width>
+      <p>
+        <text><![CDATA[Motor Cars Puzzle]]></text>
+      </p>
+    </object>
+    <object id="15" type="text" x="18478.97146781651" y="-5310.838483491483" r="0" s="4.3852901150370505" class="body">
+      <height>29.16</height>
+      <width>-122.904</width>
+      <p>
+        <text><![CDATA[Lose Screen]]></text>
+      </p>
+    </object>
+    <object id="16" type="text" x="20023.141749573937" y="-5310.838483491482" r="0" s="4.3852901150370505" class="body">
+      <height>29.16</height>
+      <width>-197.232</width>
+      <p>
+        <text><![CDATA[Gem Stones Puzzle]]></text>
+      </p>
+    </object>
+    <object id="17" type="text" x="22903.564745509582" y="-3153.5498275254436" r="0" s="4.3852901150370505" class="body">
+      <height>29.16</height>
+      <width>-135.40800000000002</width>
+      <p>
+        <text><![CDATA[Pause Screen]]></text>
+      </p>
+    </object>
+    <object id="18" type="text" x="21002.04813550308" y="-1462.0886140292157" r="0" s="4.3852901150370505" class="body">
+      <height>29.16</height>
+      <width>-184.56</width>
+      <p>
+        <text><![CDATA[Computers Puzzle]]></text>
+      </p>
+    </object>
+    <object id="19" type="text" x="22551.91929441005" y="-1462.1434301556535" r="0" s="4.3852901150370505" class="body">
+      <height>29.16</height>
+      <width>-136.032</width>
+      <p>
+        <text><![CDATA[Colors Puzzle]]></text>
+      </p>
+    </object>
+    <object id="20" type="text" x="28727.19760947457" y="-8457.2414521886" r="0" s="4.6550825317941955" class="body">
+      <height>291.6</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Word Search is a puzzle that aims at improving vocabulary of the player and his skills.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Connecting SQL database to Unity opens it up to expand into a multiplayer game where information of each player like his name, scores, and the highest score of his till date can be stored. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[So, in this project, we would like to portray how games are actually programmed using a Physics Engine which is more or less a simulation of the real world. ]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="6.107338080921636" fadescale="0">
+      <object id="background1347257123" type="image" x="15136.415160697226" y="15399.279010063385" r="0" s="53.15657840164883">
+        <source w="1484" h="1559">1347257123<url>1347257123.png</url></source>
+        <resource>
+          <id>1347257123</id>
+          <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/e/3/08df65d6daad71e2fd131f31d71ca96c8fefa.png</url>
+        </resource>
+        <sourceUrl>final2.png</sourceUrl>
+      </object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="6_30863873"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="10_171429081"/>
+    </s>
+    <s>
+      <eagle o="16_171429081"/>
+    </s>
+    <s>
+      <eagle o="17_171429081"/>
+    </s>
+    <s>
+      <eagle o="13_30863873"/>
+    </s>
+    <s>
+      <eagle o="36_24309637"/>
+    </s>
+    <s>
+      <eagle o="1_171429081"/>
+    </s>
+    <s>
+      <eagle o="5_171429081"/>
+    </s>
+    <s>
+      <eagle o="23_171429081"/>
+    </s>
+    <s>
+      <eagle o="65_171429081"/>
+    </s>
+    <s>
+      <eagle o="24_171429081"/>
+    </s>
+    <s>
+      <eagle o="74_171429081"/>
+    </s>
+    <s>
+      <eagle o="75_171429081"/>
+    </s>
+    <s>
+      <eagle o="76_171429081"/>
+    </s>
+    <s>
+      <eagle o="6_30863873"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('OldStandard-Regular.keg');
+	fontFamily: custom-oldstandard;
+	font-class: custom-oldstandard;
+	font-style: normal;
+	font-weight: normal;
+	font-family: OldStandard;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Regular.keg');
+	fontFamily: custom-playfairdisplay;
+	font-class: custom-playfairdisplay;
+	font-style: normal;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-BoldItalic.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: italic;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('OldStandard-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: OldStandard;
+}
+
+@font-face
+{
+	src: url('OldStandard-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: OldStandard;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+.line1
+{
+	color: #513e44;
+	gradEndColor: #513e44;
+	gradStartColor: #513e44;
+}
+
+.line2
+{
+	color: #4a7c97;
+	gradEndColor: #4a7c97;
+	gradStartColor: #4a7c97;
+}
+
+.line3
+{
+	color: #89937c;
+	gradEndColor: #89937c;
+	gradStartColor: #89937c;
+}
+
+.line4
+{
+	color: #f0e0c9;
+	gradEndColor: #f0e0c9;
+	gradStartColor: #f0e0c9;
+}
+
+.line5
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly1
+{
+	gradEndColor: #513e44;
+	gradStartColor: #513e44;
+}
+
+.poly2
+{
+	gradEndColor: #4a7c97;
+	gradStartColor: #4a7c97;
+}
+
+.poly3
+{
+	gradEndColor: #89937c;
+	gradStartColor: #89937c;
+}
+
+.poly4
+{
+	gradEndColor: #f0e0c9;
+	gradStartColor: #f0e0c9;
+}
+
+.poly5
+{
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #a8bbad;
+	gradStart: #bbb4a8;
+}
+
+Grid
+{
+	color: #dbe3d3;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #f00;
+	gradStartAlpha: 1;
+	gradStartColor: #f00;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #640f1e;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #513e44;
+	gradStartAlpha: 1;
+	gradStartColor: #513e44;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #ff6946;
+	gradStartAlpha: 1;
+	gradStartColor: #ff6946;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: .9;
+	borderColor: #afa679;
+	borderThickness: 5;
+	gradEndAlpha: 0.9;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.9;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 0;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #f0e0c9;
+	background-padding: 7;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #89937c;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #d9b87e;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #94cbc6;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.7;
+	color: #44ffc1;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+]]></style>
+  <hash>-170904d</hash>
+<sync><oid>m8izbwvhk3ld</oid><title>copy-of-book-report</title><hash>-170904d</hash></sync><config>Gpl2q7zi53FzoSrcmJDY9ZrwDzOQv6Wbd6Y8t6XUpJLINzT8s49hYgoCA642yZFw8DMf02KnCAECjjDYXTmL8/AGbx3v+AT+zefKOaSSTyuhN04tFFUL2XDSkwq8ybtql/R1tWY6XC9DFdPcwhbyjWN5tSlLQO9IxoFjQWYYtPSO3xZ+7JpOurGyOSq2JOYRdBHEi6uauOOvSttldsS/PKlxGM0Z9RN1MjcfLOFsurbx3zVqmOIAlkmDB+sk02YCznqc0bDwGZ9KRGhVkxTBAoML7HwlynwT61cYMMABamoj2dJI7y4tUcJXsAUVDhZXEDdDoCQbpUwf4fAjN7dQaA==</config></zuiprezi>
